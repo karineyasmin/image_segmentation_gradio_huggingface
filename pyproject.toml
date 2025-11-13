@@ -1,7 +1,7 @@
 [project]
 name = "segmentacao-imagens"
 version = "0.1.0"
-description = "Add your description here"
+description = "App Gradio que remove o fundo das imagens"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
