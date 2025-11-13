@@ -13,8 +13,6 @@ def remove_background(img_path):
     return image_pillow
 
 
-remove_background("img/img1.jpg")
-
 app = gd.Interface(
     title="Remove o Fundo da Imagem",
     description="Faça upload da imagem para remover o fundo",
